@@ -7,7 +7,6 @@ Redis is an open‑source, in‑memory database that supports a variety of data 
 This Redis server implementation supports:
 - Basic key-value operations (SET, GET, DEL)
 - List operations (LPUSH, RPUSH, LPOP, RPOP, etc.)
-- Hash operations (HSET, HGET, HDEL, etc.)
 - Key expiration (EXPIRE)
 - Database persistence (automatic saving)
 - Multi-threaded client handling
