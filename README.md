@@ -61,9 +61,12 @@ Press `Ctrl+C` to stop the server. The database will be automatically saved to `
 
 ## Flow of the Redis Server
 
+<img src= "Flow Chart of the Architecture.png">
+
 
 ## Architecture of the Server
 
+<img src= "Blank diagram (3).png">
 
 
 
